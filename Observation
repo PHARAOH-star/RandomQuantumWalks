@@ -1,0 +1,14 @@
+The plot shows that the distribution of the endpoints of the random walks approaches a Gaussian distribution as N increases. 
+This is consistent with the central limit theorem, which states that the sum of a large number of independent and identically distributed (i.i.d.) 
+random variables will be approximately normally distributed, regardless of the distribution of the individual random variables.
+
+
+
+
+
+
+
+The plot shows the probability distribution of the endpoints of one-dimensional random walks with different number of steps, N. The step lengths are uniformly distributed in (-1/2, 1/2). 
+The red line shows the predicted Gaussian distribution for each value of N.
+
+The plot shows that the distribution of the endpoints of the random walks approaches a Gaussian distribution as N increases. This is consistent with the central limit theorem.
