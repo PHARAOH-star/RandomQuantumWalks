@@ -1,0 +1,11 @@
+The most useful property of random walks is the central limit theorem. The endpoints of an ensemble
+of N step one-dimensional random walks with root-mean-square (RMS) step-size a has a Gaussian or
+normal probability distribution as N→∞,
+
+                                                                                                  
+
+Calculate the RMS step-size a for one dimensional steps uniformly distributed in (-1/2, 1/2). Write a
+programme that plots a histogram of the endpoints of W one dimensional random walks with N steps
+and 50 bins, along with the prediction of the above eqn. for x in (-30, 30). Do a histogram with W =
+10000 and N = 1,2,3, and 5. How quickly does the Gaussian distribution become a good
+approximation to the random walk?
